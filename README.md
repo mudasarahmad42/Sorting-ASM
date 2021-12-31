@@ -23,7 +23,7 @@ for (int i = 0; i < 5; i++) <br>
 
 ## Selection Sort
 
-for (int I = 0; I < 4; i++) <br>
+for (int i = 0; i < 4; i++) <br>
 { <br>
 min = i; <br>
 for (int j = i+1; j < 5; j++) <br>
