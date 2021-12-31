@@ -1,5 +1,3 @@
-> **:no_entry_sign: DO NOT CLONE, COPY OR DISTRIBUTE THIS CODE :no_entry_sign:** 
-
 # SORTING ALGORITHMS
 
 In assembly, there are only 16 registers, most of which are not accessible. Therefore, it is not at all feasible to store list data in registers. That means the list must be stored in memory. The way to do this in assembly is to declare your list like this in data segment:
@@ -54,4 +52,6 @@ j--; <br>
 } <br>
 arr[j+1] = temp; <br>
 } <br>
+
+:no_entry_sign: do not clone, copy or distribute this code :no_entry_sign:
 
